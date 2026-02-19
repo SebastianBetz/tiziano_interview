@@ -1,0 +1,92 @@
+# Castles
+
+This is a list of castles and palaces in the region, showcasing the historical heritage of Kronplatz.
+
+The items in this file are helpful in answering these questions:
+Are there castles to visit nearby?
+What historical buildings can I explore?
+Where are the local fortresses or palaces?
+
+
+### BEGIN POI
+
+This is a castle, fortress, or palace with historical importance in San Martino in Badia.
+
+** Museum Ladin Ciastel de Tor **
+
+**Opening Hours for Museum Ladin Ciastel de Tor:**
+
+{'period_start': '01.05', 'period_end': '05.11', 'service_type': 'General', 'hours': '10:00 - 18:00', 'days': ['tu', 'we', 'th', 'fr', 'sa', 'su']}
+
+Museum Ladin Ciastel de Tor is located at: Str. Tor 65, 39030.0, San Martino in Badia
+
+[Google Maps](https://www.google.com/maps/search/?api=1&query=46.6804906,11.8930182&query_place_id=ChIJG8CPyLAieEcRUVEv3lLplcg)
+
+Altitude: 1227.0 meters above sea level
+
+** Contact Information for Museum Ladin Ciastel de Tor**
+
+**Phone:** +39 0474 524020
+
+**Website:** http://www.museumladin.it
+
+**Detail Page links:** Museum Ladin Ciastel de Tor — [English](https://www.sanvigilio.com/en/info/museum-ladin-ciastel-de-tor_2767) · [German](https://www.sanvigilio.com/de/infos/museum-ladin-ciastel-de-tor_2767) · [Italian](https://www.sanvigilio.com/it/info/museum-ladin-ciastel-de-tor_2767)
+
+** About Museum Ladin Ciastel de Tor**
+
+Ladin Museum - Tor Castle In the very heart of the Dolomites live more than 30,000 Dolomite Ladins whose identity is characterised mainly by two important features: the uniqueness of their language, which derives from popular Latin, and the extraordinary mountain landscape at the heart of the southern Alps. It is only thanks to the physical characteristics of this landscape that the Ladin language has survived today. It is the eldest of all languages spoken in this region and is restricted by the Italian and the German cultural and linguistic areas that surround it. The way through the museum focuses on some significant aspects of the present and past lives of the Dolomite Ladins, highlighting the important influences of cross-regional events on the lives of the population and pinpointing the existing interrelations between landscape forms and lifestyles. The museum is housed in the Ciastel de Tor, a castle dating back to 1230, created as a fiefdom of the Bishops of Brixen.The castle is available as a wedding venue for couples interested in crowning an unforgettable day and experiencing a fairytale moment in a medieval castle.
+
+
+
+
+### BEGIN POI
+
+This is a castle, fortress, or palace with historical importance in Kiens/Ehrenburg.
+
+** Castle Ehrenburg/Casteldarne **
+
+**Also known as:** German: Schloss Ehrenburg | Italian: Castello di Casteldarne
+
+Castle Ehrenburg/Casteldarne is located at: Kiener Dorfweg 4b, 39030.0, Kiens/Ehrenburg
+
+[Google Maps](https://www.google.com/maps/search/?api=1&query=46.7965728,11.8358466&query_place_id=ChIJdYy8XOEfeEcRKL5sh0VzWc0)
+
+Altitude: 840.0 meters above sea level
+
+** Contact Information for Castle Ehrenburg/Casteldarne**
+
+**Phone:** +39 0474 565245
+
+**Website:** http://www.schlossehrenburg.com
+
+**Detail Page links:** Castle Ehrenburg/Casteldarne — [English](https://www.kiens.bz/en/info/castle-ehrenburgcasteldarne_3855) · [German](https://www.kiens.bz/de/infos/schloss-ehrenburg-_3855) · [Italian](https://www.kiens.bz/it/info/castello-di-casteldarne-_3855)
+
+** About Castle Ehrenburg/Casteldarne**
+
+The Castle Ehrenburg was the residence of the Sirs von Ehrenburg, who were later called von Künigl. It was built in the 12th century. During the 15th century, the castle was extended, and in the year 1512, it was extended again with the arcade yard. In the year 1732, it was converted into a baroque castle. The big hall, the bay windows, the wooden paneling, and the paintings on the ceiling, as well as the castle chapel are very remarkable. The castle is not open to visitors.
+The castle is located below the church. It can only be visited from the outside.StatusOnly visible from the outside.
+
+
+
+
+### BEGIN POI
+
+This is a castle, fortress, or palace with historical importance in this area.
+
+** Castle Schöneck **
+
+**Also known as:** German: Schloss Schöneck | Italian: Castel Schöneck
+
+Castle Schöneck is located at: Schloss
+
+Altitude: 1019.0 meters above sea level
+
+** Contact Information for Castle Schöneck**
+
+**Phone:** -
+
+**Detail Page links:** Castle Schöneck — [English](https://www.kiens.bz/en/info/castle-schneck_101532) · [German](https://www.kiens.bz/de/infos/schloss-schneck_101532) · [Italian](https://www.kiens.bz/it/info/castel-schneck_101532)
+
+** About Castle Schöneck**
+
+The medieval Schoneck Castle is located 958 meters above sea level and is said to be the birthplace of the famous poet and playwright Oswald von Wolkenstein (1377-1445), although this has not been historically proven . It is believed that the ruins of Pacherhof, birthplace of famous artist and sculptor Michael Pacher, are also nearby. Schöneck Castle was built in the mid-13th century by the Dukes of Rödeneck; The first mention of this complex dates back to 1155 and 1164. Over time, it became the property of the Tyrolean counts, and Engelmar von Willanders later became the owner of the Schoneck estate. Today, not only the cathedral is preserved, but also fragments of the palace, ruins of the chapel and fragments of the historic wall. In the ruins of the castle chapel there is also a fresco by master Michael Pacher. The castle is private property and inaccessible. Today, there is also a restaurant of the same name nearby.The castle is private property and may not be entered.

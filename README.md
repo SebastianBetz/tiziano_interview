@@ -29,11 +29,3 @@ Your goal: given a user query, retrieve relevant documents and generate a respon
 pip install -r requirements.txt
 ```
 
-Feel free to modify requirements.txt as needed.
-```
-
-**requirements.txt**
-```
-chromadb
-openai
-python-dotenv

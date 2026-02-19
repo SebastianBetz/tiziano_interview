@@ -1,0 +1,37 @@
+# Pizzerias
+
+This is a list of pizzerias.
+
+The items in this file are helpful in answering these questions:
+Where can I have a pizza?
+Which pizzerias are nearby?
+Where's the best pizza here?
+
+
+### BEGIN RESTAURANT
+
+This is a pizzeria in Kiens/St. Sigmund.
+
+** Gasthof Pizzeria Petra **
+
+Gasthof Pizzeria Petra is located at: Pustertalerstr. 16, 39030, Kiens/St. Sigmund
+
+[Google Maps](https://www.google.com/maps/search/?api=1&query=46.80830290000001,11.8103666&query_place_id=ChIJ2ZTdWr4deEcRvRnzjkxtnpk)
+
+Altitude: 780.0 meters above sea level
+
+** Contact Information for Gasthof Pizzeria Petra**
+
+**Phone:** +39 0474 569600
+
+**Mobile:** +39 0474 569674
+
+**Website:** https://www.pizzeriapetra.it
+
+** About Gasthof Pizzeria Petra**
+
+Our guest operating with restaurant and pizzeria is located in St. Sigmund, is centrally located and the starting point of various excursions and hikes. We are about 10 km from the Kronplatz.
+
+Close by is also the bike path that runs through the Pusteria.
+
+Our family atmosphere may not be missing and thus prepares you to chief personally delicious pizzas, as well as national and international dishes. Car parks, Dogs allowed, Buses welcome, beer bar / pub Vegetarian menu, Cuisine without glutine, Hot meals, South tyrolean cuisine, Italian cuisine, Pizza 90 Standard90 Company dinners, Conventions, Family celebrations, Birthday parties, New year's eve dinners

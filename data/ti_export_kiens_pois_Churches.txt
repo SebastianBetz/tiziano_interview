@@ -1,0 +1,163 @@
+# Churches
+
+This is a list of churches and monasteries, featuring architectural gems and cultural landmarks.
+
+The items in this file are helpful in answering these questions:
+Which churches are worth visiting?
+Are there historic monasteries nearby?
+What religious landmarks can I see here?
+
+
+### BEGIN POI
+
+This is a church, chapel, or monastery of historical or cultural significance in Chienes/Kiens.
+
+** Chapel “Unsere liebe Frau im Stöckl” **
+
+**Also known as:** German: Stöckl zur Schmerzhaften Muttergottes | Italian: Cappella di Nostra Signora
+
+**Opening Hours for Chapel “Unsere liebe Frau im Stöckl”:**
+
+{'period_start': '01.01', 'period_end': '31.12', 'service_type': 'General', 'hours': '09:00 - 18:00', 'days': ['mo', 'tu', 'we', 'th', 'fr', 'sa', 'su']}
+
+Chapel “Unsere liebe Frau im Stöckl” is located at: Via Chienes 4/b Kiener Dorfweg, 39030.0, Chienes/Kiens
+
+Altitude: 776.0 meters above sea level
+
+** Contact Information for Chapel “Unsere liebe Frau im Stöckl”**
+
+**Phone:** +39 0474 565245
+
+**Website:** https://www.kiens.bz
+
+**Detail Page links:** Chapel “Unsere liebe Frau im Stöckl” — [English](https://www.kiens.bz/en/info/chapel-unsere-liebe-frau-im-stckl-_2347) · [German](https://www.kiens.bz/de/infos/stckl-zur-schmerzhaften-muttergottes_2347) · [Italian](https://www.kiens.bz/it/info/cappella-di-nostra-signora_2347)
+
+** About Chapel “Unsere liebe Frau im Stöckl”**
+
+The renovated chapel hut dedicated to Our Lady of Sorrows in St. Sigmund was built in 1621 and expanded in 1644. The new construction is considered one of the most charming devotional spaces of the Baroque period. Great attention was paid to detail. The nave is covered by a dome, while the altar area is finished with a cross vault. The Stations of the Cross are copper engravings by Franz Xaver Endres from Augsburg. The miraculous image on the high altar is a Pietà set in an open landscape, flanked by Joachim and Anna, dating from the late 15th century. The ceiling paintings were created by Josef Anton Zoller. Beneath the dome, the four Evangelists are depicted, while scenes from the Book of Esther are shown in the dome itself. In the altar area, the three divine virtues—Faith, Hope, and Charity—are displayed, complemented by Courage.
+
+
+
+
+### BEGIN POI
+
+This is a church, chapel, or monastery of historical or cultural significance in Kiens/Hofern.
+
+** Parish Church St. Martin in Hofern/Corti **
+
+**Also known as:** German: Pfarrkirche St. Martin in Hofern  | Italian: Chiesa Parrocchiale di San Martino a Corti 
+
+Parish Church St. Martin in Hofern/Corti is located at: Kiener Dorfweg 4b, 39030.0, Kiens/Hofern
+
+Altitude: 1173.0 meters above sea level
+
+** Contact Information for Parish Church St. Martin in Hofern/Corti**
+
+**Phone:** +39 0474 565245
+
+**Website:** http://www.kiens.bz
+
+**Detail Page links:** Parish Church St. Martin in Hofern/Corti — [English](https://www.kiens.bz/en/info/parish-church-st-martin-in-hoferncorti_4259) · [German](https://www.kiens.bz/de/infos/pfarrkirche-st-martin-in-hofern-_4259) · [Italian](https://www.kiens.bz/it/info/chiesa-parrocchiale-di-san-martino-a-corti-_4259)
+
+** About Parish Church St. Martin in Hofern/Corti**
+
+At the parish church St. Martin in Hofern the longhouse walls are romanic, the vaults, the choir and the tower were built in the year 1473. At the inside there is a sidepiece altar which dates bach to the year 1520. Church is locked, information about the key at the tourist office in Kiens/Chienes.
+
+
+
+
+### BEGIN POI
+
+This is a church, chapel, or monastery of historical or cultural significance in Kiens/St. Sigmund.
+
+** Parish Church in St. Sigmund/San Sigismondo **
+
+**Also known as:** German: Pfarrkirche von St. Sigmund  | Italian: Parrocchiale di San Sigismondo 
+
+**Opening Hours for Parish Church in St. Sigmund/San Sigismondo:**
+
+{'period_start': '01.01', 'period_end': '31.12', 'service_type': 'General', 'hours': '08:00 - 19:00', 'days': ['mo', 'tu', 'we', 'th', 'fr', 'sa', 'su']}
+
+Parish Church in St. Sigmund/San Sigismondo is located at: Kiener Dorfweg 4b, 39030.0, Kiens/St. Sigmund
+
+[Google Maps](https://www.google.com/maps/search/?api=1&query=46.8141183,11.8042339&query_place_id=ChIJI9r6tMAdeEcRojlPwdwDNpI)
+
+Altitude: 785.0 meters above sea level
+
+** Contact Information for Parish Church in St. Sigmund/San Sigismondo**
+
+**Phone:** +39 0474 565245
+
+**Website:** http://www.kiens.bz
+
+**Detail Page links:** Parish Church in St. Sigmund/San Sigismondo — [English](https://www.kiens.bz/en/info/parish-church-in-st-sigmundsan-sigismondo_3191) · [German](https://www.kiens.bz/de/infos/pfarrkirche-von-st-sigmund-_3191) · [Italian](https://www.kiens.bz/it/info/parrocchiale-di-san-sigismondo-_3191)
+
+** About Parish Church in St. Sigmund/San Sigismondo**
+
+The parish church in St. Sigmund is one of the most beautiful historical monuments in South Tyrol. First mentioned in the year 1363, today's building was built between 1449 and 1489. The altar (1440) is one of the oldest and most important sidepiece altars in South Tyrol. The church “Unsere liebe Frau im Stöckl” was built in the year 1621 and enlarged in the year 1644. It was built totally new in the year 1680.
+
+
+
+
+### BEGIN POI
+
+This is a church, chapel, or monastery of historical or cultural significance in Kiens.
+
+** Parish Church St. Petrus and Paulus **
+
+**Also known as:** German: Pfarrkirche St. Petrus und Paulus | Italian: Chiesa Parrocchiale di San Pietro e Paolo
+
+**Opening Hours for Parish Church St. Petrus and Paulus:**
+
+{'period_start': '01.01', 'period_end': '31.12', 'service_type': 'General', 'hours': '09:00 - 18:00', 'days': ['mo', 'tu', 'we', 'th', 'fr', 'sa', 'su']}
+
+Parish Church St. Petrus and Paulus is located at: Kiener Dorfweg 4b, 39030.0, Kiens
+
+[Google Maps](https://www.google.com/maps/search/?api=1&query=46.80901919999999,11.8413534&query_place_id=ChIJPZXTXG4eeEcR-RqcWgAb-fY)
+
+Altitude: 835.0 meters above sea level
+
+** Contact Information for Parish Church St. Petrus and Paulus**
+
+**Phone:** +39 0474 565245
+
+**Website:** http://www.kiens.bz
+
+**Detail Page links:** Parish Church St. Petrus and Paulus — [English](https://www.kiens.bz/en/info/parish-church-st-petrus-and-paulus_2705) · [German](https://www.kiens.bz/de/infos/pfarrkirche-st-petrus-und-paulus_2705) · [Italian](https://www.kiens.bz/it/info/chiesa-parrocchiale-di-san-pietro-e-paolo_2705)
+
+** About Parish Church St. Petrus and Paulus**
+
+The parish church St. Petrus and Paulus in Kiens was built between 1835 and 1838. Only the tower dates back to the 15th century. The paintings on the ceiling are remarkable.
+
+
+
+
+### BEGIN POI
+
+This is a church, chapel, or monastery of historical or cultural significance in Kiens/Ehrenburg.
+
+** Ascension Church in Ehrenburg **
+
+**Also known as:** German: Propsteikirche Mariä Himmelfahrt  | Italian: Prepositale Mariä Himmelfahrt 
+
+**Opening Hours for Ascension Church in Ehrenburg:**
+
+{'period_start': '01.01', 'period_end': '31.12', 'service_type': 'General', 'hours': '08:00 - 19:00', 'days': ['mo', 'tu', 'we', 'th', 'fr', 'sa', 'su']}
+
+Ascension Church in Ehrenburg is located at: Kiener Dorfweg 4b, 39030.0, Kiens/Ehrenburg
+
+[Google Maps](https://www.google.com/maps/search/?api=1&query=46.7976335,11.8362259&query_place_id=ChIJa_ghlmIeeEcRt-SFzovoyBk)
+
+Altitude: 840.0 meters above sea level
+
+** Contact Information for Ascension Church in Ehrenburg**
+
+**Phone:** +39 0474 565245
+
+**Website:** http://www.kiens.bz
+
+**Detail Page links:** Ascension Church in Ehrenburg — [English](https://www.kiens.bz/en/info/ascension-church-in-ehrenburg-_4267) · [German](https://www.kiens.bz/de/infos/propsteikirche-mari-himmelfahrt-_4267) · [Italian](https://www.kiens.bz/it/info/prepositale-mari-himmelfahrt-_4267)
+
+** About Ascension Church in Ehrenburg**
+
+The Ascension Church in Ehrenburg was first built in the year 1370. Today's building was built in the baroque period between 1698 and 1701. The mercy-painting was painted by I. A. Mölck (1755). In the crypt, there is an old statue of the Virgin Mary and other interesting paintings.The church stands on the church hill, above the Castle Ehrenburg.

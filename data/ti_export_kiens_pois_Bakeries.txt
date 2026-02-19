@@ -1,0 +1,70 @@
+# Bakeries
+
+This is a list of bakeries.
+
+The items in this file are helpful in answering these questions:
+Where can I buy bread or pastries?
+Are there any bakeries nearby?
+Where can I find fresh bread in {location}?
+
+
+### BEGIN POI
+
+This is a bakery in Kiens.
+
+** Gatterer bakery-confectionery with café **
+
+**Also known as:** German: Gatterer Bäckerei- Konditorei mit Cafè | Italian: Gatterer Paneficio - pasticceria con Cafè
+
+**Opening Hours for Gatterer bakery-confectionery with café:**
+
+{'period_start': '01.01', 'period_end': '31.12', 'service_type': 'General', 'hours': '06:30 - 19:00', 'days': ['mo', 'tu', 'we', 'th', 'fr']}, {'period_start': '01.01', 'period_end': '31.12', 'service_type': 'General', 'hours': '06:30 - 18:00', 'days': ['sa']}
+
+Gatterer bakery-confectionery with café is located at: Kienerdorfweg 2, 39030.0, Kiens
+
+[Google Maps](https://www.google.com/maps/search/?api=1&query=46.8061841,11.8360208&query_place_id=ChIJPZXTXG4eeEcRKvhBlQ9Vr0M)
+
+Altitude: 780.0 meters above sea level
+
+** Contact Information for Gatterer bakery-confectionery with café**
+
+**Phone:** +39 0474 565312
+
+**Website:** http://www.baeckerei-gatterer.it
+
+**Detail Page links:** Gatterer bakery-confectionery with café — [English](https://www.kiens.bz/en/info/gatterer-bakery-confectionery-with-caf-_3383) · [German](https://www.kiens.bz/de/infos/gatterer-bckerei-konditorei-mit-caf-_3383) · [Italian](https://www.kiens.bz/it/info/gatterer-paneficio-pasticceria-con-caf_3383)
+
+** About Gatterer bakery-confectionery with café**
+
+Bakery - Pastry with Cafè - homemade ice cream, strudel di meleTRADITION MEETS MODERNITYWhen we prepare the first doughs every day, the most important ingredient is already there: the love for our quality and for the traditional bakery trade, with bread variety. The original flavor is the goal.TRUST MAKES QUALITYLove for the product has been our goal as a family business since 1926. Traditional production methods and recipes, trust in selected ingredients from regional suppliers, and a healthy dose of innovation are our daily motivations.
+
+
+
+
+### BEGIN POI
+
+This is a bakery in Kiens / Chienes.
+
+** Market Engl **
+
+**Opening Hours for Market Engl:**
+
+{'period_start': '01.01', 'period_end': '31.12', 'service_type': 'General', 'hours': '07:45 - 12:00', 'days': ['mo', 'tu', 'we', 'th', 'fr']}, {'period_start': '01.01', 'period_end': '31.12', 'service_type': 'General', 'hours': '07:45 - 12:00', 'days': ['sa']}, {'period_start': '01.01', 'period_end': '31.12', 'service_type': 'General', 'hours': '15:00 - 18:30', 'days': ['mo', 'tu', 'we', 'th', 'fr']}
+
+Market Engl is located at: Kienerdorfweg 6, 39030.0, Kiens / Chienes
+
+[Google Maps](https://www.google.com/maps/search/?api=1&query=46.8066962,11.8364244&query_place_id=ChIJf1_nFHAeeEcRAUlnjeEOTB8)
+
+Altitude: 785.0 meters above sea level
+
+** Contact Information for Market Engl**
+
+**Phone:** +39 0474 836328
+
+**Website:** http://www.kiens.info
+
+**Detail Page links:** Market Engl — [English](https://www.kiens.bz/en/info/market-engl_3573) · [German](https://www.kiens.bz/de/infos/market-engl_3573) · [Italian](https://www.kiens.bz/it/info/market-engl_3573)
+
+** About Market Engl**
+
+Food, tobacco products, cosmetics and household division, Stationery,drinks.ArrivalKiens/Chienes- Kienerdorfweg Nr. 6

@@ -1,0 +1,46 @@
+# Bucheries
+
+This is a list of butcher shops and delicatessens.
+
+The items in this file are helpful in answering these questions:
+Where can I buy meat or sausages?
+Are there any butchers nearby?
+Where can I find delicatessen in {location}?
+
+
+### BEGIN POI
+
+This is a butcher or delicatessen in Kiens/Chienes.
+
+** Farm shop Falkenau **
+
+**Also known as:** German: Hofladen Falkenau | Italian: Bottega del maso Falkenau
+
+Farm shop Falkenau is located at: Pustertalerstr. 29, 39030.0, Kiens/Chienes
+
+[Google Maps](https://www.google.com/maps/search/?api=1&query=46.8015964,11.8495683&query_place_id=ChIJkRcZnV0eeEcRYKWTAljasU4)
+
+Altitude: 818.0 meters above sea level
+
+** Contact Information for Farm shop Falkenau**
+
+**Phone:** +39 3485727112
+
+**Website:** https://www.falkenau.it/
+
+**Detail Page links:** Farm shop Falkenau — [English](https://www.kiens.bz/en/info/farm-shop-falkenau_2625) · [German](https://www.kiens.bz/de/infos/hofladen-falkenau_2625) · [Italian](https://www.kiens.bz/it/info/bottega-del-maso-falkenau_2625)
+
+** About Farm shop Falkenau**
+
+Flavor thrives here
+Inspired by the abundance of aromatic fruits that grow and thrive at Hof Falkenau in South Tyrol, we have decided to process and refine natural products to a high standard ourselves. In this way, we guarantee our guests an intense flavor experience. Our range of high-quality products extends from fruit spreads and syrups to meat products, honey, and tea blends - farmhouse moments of pleasure are guaranteed.
+Flavourful, juicy................. the world of fruit
+Our fruit spreads and all-natural syrups are the best ambassadors for naturalness and authenticity. Using traditional recipes, we process the berries, flowers, and fruit varieties from our farm garden into fruit spreads, or alternatively, into new, innovative flavors in a bottle.
+Herbal power from South Tyrol
+Experience the power and energy of natural herbs. Dried flowers and leaves from our own farm are the main ingredients of our special tea blend. The optimal climate in South Tyrol gives the herbs a particularly intense flavor and their natural calming effect.
+Genuine flavor from South Tyrol
+You can taste the passion for tradition and quality when you savor our farmhouse bacon from our own pig farm. Characterized by the special alpine climate, the speck is refined with a secret blend of spices. In addition to our speck, you will also find the typical South Tyrolean Kaminwurzen sausages in our farm shop, optionally with game or beef, as well as our own salami, pancetta, and lardo.
+The liquid gold from the mountains - honey
+The variety of flowers in South Tyrol gives our honey its unique flavor. In almost untouched nature, our industrious bees collect the valuable nectar, process it into aromatic honeydew, and finally give us a natural, healthy honey that delights with its fine, sweet flavor.
+The stone pine - Queen of the Alps
+We also rely on the best quality for our stone pine pillows. The regional stone pine wood, with its special essential oils, has a positive effect on our bodies. The effect of the stone pine brings us into a pleasant state of relaxation and increases our general well-being. A gift from nature.
