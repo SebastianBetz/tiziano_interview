@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 .chroma/
 .env.local
+activeate/
+__init__.py
+venv
+*.env
