@@ -6,6 +6,10 @@ Build a minimal RAG pipeline for a tourism chatbot.
 You have a small dataset of tourism documents (South Tyrol destinations).
 Your goal: given a user query, retrieve relevant documents and generate a response using an LLM.
 
+**The corpus is in `data/`** — twelve export files with structured records, opening
+hours, and content in three languages (EN/DE/IT). That is the data your pipeline
+should handle. `documents.py` is a small warm-up fixture, not the corpus.
+
 ## Requirements
 - Chunk and embed the provided documents into a vector store
 - Retrieve the top-k relevant chunks for a given query
